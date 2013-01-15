@@ -1,4 +1,4 @@
 yoyo
 ====
 
-website for the yoyo club
+Website for the yoyo club
